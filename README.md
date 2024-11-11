@@ -1,12 +1,12 @@
 # 💫 About Me:
-- 🔭 I’m currently working on some personal projects
-- 🌱 I’m currently learning C programming
-- 👯 I’m looking to collaborate on some projects
-- 🤔 I’m looking for help with forming a group
-- 💬 Ask me about anything
-- 📫 How to reach me: Linkedin
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love watching soccer
+🔭 I’m currently working on some personal projects
+🌱 I’m currently learning C programming
+👯 I’m looking to collaborate on some projects
+🤔 I’m looking for help with forming a group
+💬 Ask me about anything
+📫 How to reach me: Linkedin
+😄 Pronouns: He/Him
+⚡ Fun fact: I love watching soccer
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abrham-dawit) 

@@ -1,11 +1,18 @@
 # 💫 About Me:
 🔭 I’m currently working on some personal projects
+
 🌱 I’m currently learning C programming
+
 👯 I’m looking to collaborate on some projects
+
 🤔 I’m looking for help with forming a group
+
 💬 Ask me about anything
+
 📫 How to reach me: Linkedin
+
 😄 Pronouns: He/Him
+
 ⚡ Fun fact: I love watching soccer
 
 ## 🌐 Socials:

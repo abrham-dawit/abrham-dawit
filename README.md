@@ -25,7 +25,7 @@ I like high-stakes software: backend systems, infrastructure, and AI agents — 
 
 ## Featured projects
 
-**AgentCheck** — A multi-agent fact-checking pipeline in Python/FastAPI. Seven specialized agents split the work of researching claims, checking sources, and scoring confidence, so a claim gets verified from several angles instead of one pass.
+**AgentCheck** — An autonomous job-hunting system in Python/FastAPI. Seven specialized agents split the work — discovering jobs, scoring fit, drafting outreach, and running application workflows — with confidence thresholds deciding what goes out on its own and what waits for me.
 
 **[PolicyPulse](https://github.com/abrham-dawit/policypulse)** — A live map of the real bills moving around you (Congress.gov + OpenStates on a 3D map), plus a simulator that builds a Census-grounded digital twin of your community and shows who a policy helps and who it hurts — before anyone votes. Next.js/TypeScript, Mastra AI agents, Redis.
 
@@ -39,6 +39,24 @@ I like high-stakes software: backend systems, infrastructure, and AI agents — 
 **[Data Structures & Algorithms in C/C++](https://github.com/abrham-dawit/data-structures-c-cpp)** — List and graph ADTs, BFS and strongly connected components, sparse matrices, arbitrary-precision integers, and BST + red-black tree dictionaries. Every structure implemented node by node, with my own test drivers.
 
 **[Systems Programming in C](https://github.com/abrham-dawit/systems-programming-c)** — A linked-list text editor, a Wordle game and solver, a stack-based calculator, and a hash-table business database, each with the design doc I wrote before coding it.
+
+## Ideas I'm building out
+
+These started as ideas in my notes. I'm building them one by one — first working versions, all open source:
+
+**[Gods Wisdom](https://github.com/abrham-dawit/gods-wisdom)** — A wisdom verse for every day of the year, browsable by theme when you need a specific kind of encouragement.
+
+**[Catholic Mezmur](https://github.com/abrham-dawit/catholic-mezmur)** — An organizer for Eritrean Catholic mezmur: Tigrinya titles, transliterations, and meanings, sorted by feast and season so a hymn is easy to find before Mass.
+
+**[Temporary Pictures Sharing](https://github.com/abrham-dawit/temporary-pictures-sharing)** — Share a photo with a link and it deletes itself after 15 minutes. No ads, no account, works on any device.
+
+**[Lost & Found Rewards](https://github.com/abrham-dawit/lost-and-found-rewards)** — A board for lost IDs and items with a reward for whoever brings them back.
+
+**[Selam Restaurant](https://github.com/abrham-dawit/selam-restaurant)** — A website for an Eritrean/Ethiopian restaurant: full menu, story, and hours.
+
+**[Meharena Trucking](https://github.com/abrham-dawit/meharena-trucking)** — A clean one-page site for a trucking company, with a quote-request form.
+
+**[Portfolio Website](https://github.com/abrham-dawit/portfolio-website)** — My portfolio: experience, projects, and the stack I work in.
 
 ## GitHub stats
 

@@ -27,7 +27,9 @@ I like high-stakes software: backend systems, infrastructure, and AI agents — 
 
 **AgentCheck** — A multi-agent fact-checking pipeline in Python/FastAPI. Seven specialized agents split the work of researching claims, checking sources, and scoring confidence, so a claim gets verified from several angles instead of one pass.
 
-**PolicyPulse** — A Next.js/TypeScript app that turns long policy documents into plain summaries people will actually read, with the source text kept one click away.
+**[PolicyPulse](https://github.com/abrham-dawit/policypulse)** — A live map of the real bills moving around you (Congress.gov + OpenStates on a 3D map), plus a simulator that builds a Census-grounded digital twin of your community and shows who a policy helps and who it hurts — before anyone votes. Next.js/TypeScript, Mastra AI agents, Redis.
+
+**[Continuum](https://github.com/abrham-dawit/continuum)** — A real-time knowledge graph of what a team is working on: an Electron app captures work context on-device, a persistent AI agent per person keeps it organized, and a Next.js dashboard draws the connections live as they form. TypeScript, Supabase/pgvector, D3.
 
 
 **Newton** — An FPGA project in Verilog on a Xilinx BASYS3 board: digital logic designed, simulated, and run on real hardware.

@@ -36,9 +36,9 @@ I like high-stakes software: backend systems, infrastructure, and AI agents — 
 
 ### Foundations — built from scratch
 
-**[Data Structures & Algorithms in C/C++](https://github.com/abrham-dawit/data-structures-c-cpp)** — List and graph ADTs, BFS and strongly connected components, sparse matrices, arbitrary-precision integers, and BST + red-black tree dictionaries. Every structure implemented node by node, with my own test drivers.
+**[Data Structures & Algorithms in C/C++](https://github.com/abrham-dawit/data-structures-from-scratch)** — List and graph ADTs, BFS and strongly connected components, sparse matrices, arbitrary-precision integers, and BST + red-black tree dictionaries. Every structure implemented node by node, with my own test drivers.
 
-**[Systems Programming in C](https://github.com/abrham-dawit/systems-programming-c)** — A linked-list text editor, a Wordle game and solver, a stack-based calculator, and a hash-table business database, each with the design doc I wrote before coding it.
+**[Systems Programming in C](https://github.com/abrham-dawit/systems-programming-from-scratch)** — A linked-list text editor, a Wordle game and solver, a stack-based calculator, and a hash-table business database, each with the design doc I wrote before coding it.
 
 ## Ideas I'm building out
 
@@ -48,7 +48,7 @@ These started as ideas in my notes. I'm building them one by one — first worki
 
 **[Catholic Mezmur](https://github.com/abrham-dawit/catholic-mezmur)** — An organizer for Eritrean Catholic mezmur: Tigrinya titles, transliterations, and meanings, sorted by feast and season so a hymn is easy to find before Mass.
 
-**[Temporary Pictures Sharing](https://github.com/abrham-dawit/temporary-pictures-sharing)** — Share a photo with a link and it deletes itself after 15 minutes. No ads, no account, works on any device.
+**[Temporary Pictures Sharing](https://github.com/abrham-dawit/ephemeral-photo-sharing)** — Share a photo with a link and it deletes itself after 15 minutes. No ads, no account, works on any device.
 
 **[Lost & Found Rewards](https://github.com/abrham-dawit/lost-and-found-rewards)** — A board for lost IDs and items with a reward for whoever brings them back.
 
@@ -58,7 +58,7 @@ These started as ideas in my notes. I'm building them one by one — first worki
 
 **[Portfolio Website](https://github.com/abrham-dawit/portfolio-website)** — My portfolio: experience, projects, and the stack I work in.
 
-**[Menu Snap Recommendations](https://github.com/abrham-dawit/menu-snap-recommendations)** — Photo a restaurant menu, get dish recommendations with pictures, matched to your budget and taste.
+**[Menu Snap Recommendations](https://github.com/abrham-dawit/menu-snap)** — Photo a restaurant menu, get dish recommendations with pictures, matched to your budget and taste.
 
 **[Campus Move-Out Marketplace](https://github.com/abrham-dawit/campus-moveout-marketplace)** — Students moving out sell furniture and dorm stuff to students moving in — cheaper for everyone, less in the landfill.
 

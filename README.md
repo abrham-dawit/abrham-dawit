@@ -29,7 +29,14 @@ I like high-stakes software: backend systems, infrastructure, and AI agents — 
 
 **PolicyPulse** — A Next.js/TypeScript app that turns long policy documents into plain summaries people will actually read, with the source text kept one click away.
 
+
 **Newton** — An FPGA project in Verilog on a Xilinx BASYS3 board: digital logic designed, simulated, and run on real hardware.
+
+### Foundations — built from scratch
+
+**[Data Structures & Algorithms in C/C++](https://github.com/abrham-dawit/data-structures-c-cpp)** — List and graph ADTs, BFS and strongly connected components, sparse matrices, arbitrary-precision integers, and BST + red-black tree dictionaries. Every structure implemented node by node, with my own test drivers.
+
+**[Systems Programming in C](https://github.com/abrham-dawit/systems-programming-c)** — A linked-list text editor, a Wordle game and solver, a stack-based calculator, and a hash-table business database, each with the design doc I wrote before coding it.
 
 ## GitHub stats
 

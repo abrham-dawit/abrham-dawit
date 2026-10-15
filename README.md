@@ -56,13 +56,13 @@ These started as ideas in my notes. I'm building them one by one — first worki
 
 **[Meharena Trucking](https://github.com/abrham-dawit/meharena-trucking)** — A clean one-page site for a trucking company, with a quote-request form.
 
-**[Portfolio Website](https://github.com/abrham-dawit/portfolio-website)** — My portfolio: experience, projects, and the stack I work in.
+**[Portfolio](https://github.com/abrham-dawit/abrham-dawit-portfolio)** — My portfolio: experience, projects, and the stack I work in.
 
 **[Menu Snap Recommendations](https://github.com/abrham-dawit/menu-snap)** — Photo a restaurant menu, get dish recommendations with pictures, matched to your budget and taste.
 
-**[Campus Move-Out Marketplace](https://github.com/abrham-dawit/campus-moveout-marketplace)** — Students moving out sell furniture and dorm stuff to students moving in — cheaper for everyone, less in the landfill.
+**[Campus Move-Out Exchange](https://github.com/abrham-dawit/campus-moveout-exchange)** — Students moving out sell furniture and dorm stuff to students moving in — cheaper for everyone, less in the landfill.
 
-**[Do My Laundry](https://github.com/abrham-dawit/do-my-laundry)** — Schedule a laundry pickup, pick your services, track your order.
+**[Laundry On Demand](https://github.com/abrham-dawit/laundry-on-demand)** — Schedule a laundry pickup, pick your services, track your order.
 
 **[Mezmur Voice Detector](https://github.com/abrham-dawit/mezmur-voice-detector)** — Point it at a Tigrinya or Amharic song or mezmur recording and it works on telling you what it is. Early build.
 
@@ -72,7 +72,7 @@ These started as ideas in my notes. I'm building them one by one — first worki
 
 **[Loyal Tees](https://github.com/abrham-dawit/loyal-tees)** — Printable motivational and Bible-verse shirts in English and Tigrinya. Be loyal to your future, not your past.
 
-**[Rangers Coding Club v2](https://github.com/abrham-dawit/rangers-coding-club-v2)** — The refreshed site for the coding club where I first learned to build: lessons, projects, and how to join.
+**[Rangers Coding Club](https://github.com/abrham-dawit/rangers-coding-club-site)** — The refreshed site for the coding club where I first learned to build: lessons, projects, and how to join.
 
 ## GitHub stats
 
